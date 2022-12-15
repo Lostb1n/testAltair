@@ -81,3 +81,5 @@
 -   Внедрение базы данных для хранения сообщений в архиве;
 
 -   Разграничение прав доступа;
+
+![image](https://github.com/Lostb1n/testAltair/blob/main/documents/52423d64a4fdb5eeb2c2dc2c70382a6d.jpg)
